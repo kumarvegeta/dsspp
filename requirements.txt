@@ -100,7 +100,7 @@ Twisted-Web==13.2.0
 unity==1.0
 unity-lens-photos==1.0
 unity-webapps-qml==0.1
-urllib3==1.7.1
+urllib3==1.26.5
 virtualenv==1.11.4
 web.py==0.38
 webapp2==2.5.2
