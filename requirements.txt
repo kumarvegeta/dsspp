@@ -33,7 +33,7 @@ httplib2==0.8
 ipython==1.2.1
 itsdangerous==0.24
 Jinja2==2.7.2
-joblib==0.7.1
+joblib==1.2.0
 junitxml==0.6
 lockfile==0.8
 lxml==3.3.3
